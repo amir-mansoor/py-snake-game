@@ -9,3 +9,4 @@ pressing "b" = snake-size will gets low
 pressing "LCTRL" = snake-size will get high
 
 pressing "K_RCTRL" = length will increase and score also
+# py-snake-game
