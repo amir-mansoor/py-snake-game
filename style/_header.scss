@@ -1,0 +1,10 @@
+@import './variables';
+header {
+    color: $textcolor;
+    button {
+        &:hover {
+            background: red;
+        }
+        background: $primarybtn;
+    }
+}
